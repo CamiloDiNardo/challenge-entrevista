@@ -1,0 +1,12 @@
+// Export default de todo expo
+export {default as About} from "./About";
+export {default as Advantages} from "./Advantages";
+export {default as Contact} from "./Contact";
+export {default as Description} from "./Description";
+export {default as Hero} from "./Hero";
+export {default as PromoNumbers} from "./PromoNumbers";
+export {default as Partners} from "./Partners";
+export {default as Speakers} from "./Speakers";
+export {default as VideoSection} from "./VideoSection";
+export {default as Task} from "./Task";
+export {default as useTaskContext} from "./Context";
